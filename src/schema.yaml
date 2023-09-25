@@ -1,0 +1,15 @@
+schema:
+  tranaction_id': int
+  tx_datetime': str
+  customer_id': int
+  terminal_id': int
+  tx_amount': float
+  tx_time_seconds': int
+  tx_time_days': int
+  tx_fraud': int
+  tx_fraud_scenario': int
+
+types:
+  int: IntegerType
+  str: StringType
+  float: FloatType

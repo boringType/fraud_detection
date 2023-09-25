@@ -1,0 +1,7 @@
+.env
+.idea
+.ipynb_checkpoints
+*.ipynb
+config.yaml
+.__pycache__
+*.pyc
